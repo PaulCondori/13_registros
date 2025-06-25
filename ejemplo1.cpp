@@ -51,5 +51,6 @@ int main(){
             cout << "Numero: " <<EMPLEADOS[i].num << ", Nombre: " << EMPLEADOS[i].nom << endl;
         }
     }
+    
     return 0;
 }
